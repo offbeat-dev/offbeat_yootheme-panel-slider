@@ -3,12 +3,12 @@
 ![Panel Slider](https://github.com/pauloguerraf/yootheme_PanelSlider/blob/main/screenshot.jpg "Screenshot")
 
 
-## Instalación
+## Installation
 
 ### WordPress
 
-1. Crear y activar un child theme [child theme](https://yootheme.com/support/yootheme-pro/wordpress/child-themes) para YOOtheme Pro.
-2. Crear una carpeta `/builder` dentro de la carpeta del child theme y copiar las 2 carpetas del custom element:
-- Para usar Panel Slider copiar las carpetas `/builder/panelslider` & `/builder/panelslider_item`
-- Para usar Grid modificada copiar las carpetas `/builder/grid` & `/builder/grid_item`
-3. Ir Customize en Wordpress. El elemento debe ahora estar listado en la categoría Custom al agregar un nuevo elemento a la página.
+1. Create and activate a YOOtheme Pro child theme [child theme](https://yootheme.com/support/yootheme-pro/wordpress/child-themes). 
+2. Create a `/builder` folder inside the child theme folder and copy both folders from this repo:
+- To use Panel Slider copy both `/builder/panelslider` & `/builder/panelslider_item`
+- To use Grid copy both `/builder/grid` & `/builder/grid_item`
+3. Go to Customize in Wordpress. The Custom Element should now be listed in the Custom category when adding a new element in Yootheme.
